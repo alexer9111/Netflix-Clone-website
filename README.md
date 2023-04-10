@@ -1,4 +1,4 @@
-# Netflix-Clone-website
+# Netflix-Clone-website-Using HTML & CSS only best for projects
 Netflix India Clone Website
 I have created this website without a single code of Js, only HTML and CSS is used.
 You can use it for your projects in college.
